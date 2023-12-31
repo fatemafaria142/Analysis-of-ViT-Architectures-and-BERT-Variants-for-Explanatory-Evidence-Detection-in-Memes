@@ -1,0 +1,1 @@
+# Analysis-of-ViT-Architectures-and-BERT-Variants-for-Explanatory-Evidence-Detection-in-Memes
