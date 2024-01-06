@@ -1,5 +1,4 @@
-# Meme Explanatory Evidence Mining
-
+# Analysis of ViT Architectures and BERT Variants for Explanatory Evidence Detection in Memes
 This project aims to mine contextual information related to memes by leveraging advanced models for image and text feature extraction. The goal is to succinctly explain the background and context of a meme based on a related document.
 
 ## Overview
